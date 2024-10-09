@@ -17,5 +17,8 @@ int main()
 	cout<<"ACTUALIZACION";
 
 	cout<<"ACTUALIZACION"; cout<<"ACTUALIZACION"; cout<<"ACTUALIZACION";
+
+	//AHORA VIENE GIT FETCH
+	//LUEGO GIT PULL
 	
 }
